@@ -1,0 +1,5 @@
+[03-May-2021 10:35:34 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::fatch_row() in C:\xampp\htdocs\PHP_E\php mysql\select.php:8
+Stack trace:
+#0 C:\xampp\htdocs\PHP_E\php mysql\insert.php(43): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\PHP_E\php mysql\select.php on line 8
